@@ -88,6 +88,10 @@ nav ul li a:hover{
     float:left;
 
 }
+
+.links img{
+    height: 150px;
+}
 .links li {
     padding: 20px;
 }
